@@ -1,0 +1,98 @@
+/*section*/
+
+.nov{
+	margin-top: 23px;
+	width: 960px;
+	margin: 0 auto;
+	height: 80px;
+}
+.nov li{
+	text-align: center;
+	width: 320px;
+	float: left;
+	padding: 20px 0;
+	background-image: url(../img/1.png);
+	background-repeat: no-repeat;
+	background-position: 300px 28px; 
+}
+.nov li:nth-child(1){
+	height: 40px;
+	line-height: 40px;
+}
+.nov li:nth-child(2){
+	height: 55.76px;
+	line-height: 55.76px;
+}
+.nov li:nth-child(3){
+	height: 40px;
+	line-height: 40px;
+}
+.nov a{
+	color: #333;
+	font-size: 14px;
+}
+.section{
+	width: 960px;
+	height: 289px;
+	margin: 0 auto;
+	padding: 10px;
+	font-family: "Optima LT W01 Roman", Palatino Linotype, Book Antiqua, Palatino, serif;
+}
+.sectionleft{
+	float: left;
+	width: 720px;
+	height: 250px;
+	padding: 19px 0 20px;
+}
+.sectionleft h1{
+	width: 710px;
+	height: 24px;
+	margin: 0 0 14px 10px;
+	font-weight: 400;
+	font-size: 20px;
+	color: #3b3b3b;
+}
+.sectionleft button{
+	background: #fff;
+	outline: none;
+}
+.sectionleft button:hover{
+	text-decoration: underline;
+}
+.sectionright{
+	float: left;
+	width: 230px;
+	height: 193.3px;
+	padding: 20px 0 0 10px;
+}
+.sectionright p{
+	width: 220px;
+	height: 20px;
+	margin: 0 0 10px 10px;
+}
+.sectionrightchild{
+	width: 208px;
+	height: 141.3px;
+	padding: 10px;
+	border: 1px solid #ededed;
+	font-size: 12px;
+	background: #fafafa;
+}
+.sectionrightchild p{
+	width: 208px;
+	line-height: 15px;
+	color: #333;
+}
+.sectionrightchild a{
+	text-decoration: underline;
+	color: #333;
+}
+.sectionrightchild p:nth-child(1){
+	height: 32px;
+}
+.sectionrightchild p:nth-child(1){
+	height: 48px;
+}
+.sectionrightchild p:nth-child(1){
+	height: 16px;
+}

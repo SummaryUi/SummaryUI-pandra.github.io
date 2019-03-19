@@ -1,0 +1,250 @@
+section .section{
+	width: 864px;
+	height: 595px;
+	font-family: "Optima LT W01 Roman", "Palat";
+	padding: 50px 43px;
+	margin: 0 auto;
+}
+.secChild{
+	width: 834px;
+	height: 595px;
+}
+.secChildLeft{
+	width: 260px;
+	height: 590px;
+	float: left;
+	color: #4e515e;
+}
+.secChildLeft1{
+	width: 260px;
+	height: 133px;
+	font-size: 15px;
+}
+.secChildLeft1 h2{
+	width: 260px;
+	height: 20px;
+	font-size: 16px;
+	color: #333;
+	padding-bottom: 3px;
+	margin: 10px 0 20px;
+	font-weight: 400;
+	text-align: center;
+}
+.secChildLeft11{
+	width: 260px;
+	height: 40px;
+	padding-bottom: 5px;
+}
+
+.secChildLeft input{
+	width: 260px;
+	height: 35px;
+	margin-bottom: 9px;
+	border-bottom: 1px solid #000;
+}
+
+#secChildLeft2{
+	width: 260px;
+	height: 447px;
+	font-size: 15px;
+}
+
+/*注册按钮*/
+#set{
+	width: 260px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	background: #333;
+}
+#set:hover{
+	opacity: 0.7;
+}
+
+.secChildLeft3{
+	width: 260px;
+	height: 20px;
+	padding-top: 10px;
+}
+.secChildLeft .sex{
+	width: 104px;
+	height: 20px;
+	line-height: 20px;
+	float: left;
+}
+.secChildLeft3 span{
+	display: block;
+	float: left;
+	height: 18px;
+	margin-bottom: 4px;
+}
+.secChildLeft .secChildLeft3 input{
+	float: left;
+	width: 20px;
+	height: 20px;
+	font-size: 16px;
+	font-family: Optima LT W01 Roman", "Palatino Linotype", "Book Antiqua", "Palatino", "serif" ;
+	background: transparent;
+}
+
+#spanBox{
+	display: none;
+	width: 130px;
+	/*height: 11px;
+	line-height: 11px;*/
+	font-size: 13px;
+	margin-top: 6px;
+	padding-top: 5px;
+	color: #ff0059;
+}
+.secChildLeft21{
+	width: 260px;
+	height: 28px;
+	padding-top: 5px;
+	margin-bottom: 78px;
+}
+.secno1{
+	margin-top: 10px;
+	width: 191px;
+	height: 28px;
+	font-size: 13px;
+	color: #000;
+}
+.secno1 span{
+	display: block;
+	margin-left: 42px;
+	font-size: 12px;
+}
+#select{
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	border: 1px solid #000;
+	float: left;
+}
+#select1{
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	border: 1px solid #000;
+	float: left;
+}
+.secno1 a{
+	display: block;
+	margin-left: 42px;
+	text-decoration: underline;
+	font-size: 12px;
+	color: #000;
+}
+.secChildLeft3 span{
+	display: block;
+	font-size: 13px;
+	margin-left: 35px;
+}
+/*
+.secChildLeft2:nth-child(3){
+	padding: 0;
+}
+.secChildLeft2 input{
+	width: 260px;
+	height: 29px;
+	border-bottom: 1px solid #000;
+}
+.secChildLeft3{
+	width: 260px;
+	height: 19px;
+	padding: 10px 0 18px;
+}
+#select{
+	width: 20px;
+	height: 20px;
+	border: 1px solid #000;
+	float: left;
+}
+.secChildLeft3 span{
+	display: block;
+	font-size: 14px;
+	margin-left: 35px;
+}
+#jd{
+	display: block;
+	width: 65px;
+	height: 18px;
+	height: 16px;
+	font-size: 13px;
+	color: #000;
+	margin-bottom: 15px;
+	border-bottom: 1px solid #000;
+}
+#submit{
+	width: 260px;
+	height: 50px;
+	background: #000;
+	color: #fff;
+	font-size: 16px; 
+}
+#spanId{
+	width: 260px;
+	height: 26px;
+	margin-top: 12px;
+	text-align: center;
+	font-size: 12px;
+	color: red;
+}
+#submit:hover{
+	background: #4d4d4d;
+}*/
+.secChildRight{
+	width: 370px;
+	height: 497px;
+	margin: 0 72.5px;
+	background: #fff;
+	position: relative;
+	float: right;
+	z-index: 0;
+}
+.secChildRight1{
+	width: 370px;
+	height: 497px;
+	display: block;
+}
+.acrTop{
+	width: 370px;
+	height: 25px;
+	top: 35px;
+	left: 0px;
+	color: #000;
+	text-align: center;
+	font-size: 19px;
+}
+.secChildRight a{
+	position: absolute;
+	display: block;
+}
+.secChildRight a:hover{
+	text-decoration: underline;
+}
+.acrMiddle{
+	width: 285px;
+	height: 28px;
+	top: 115px;
+	left: 0px;
+	margin: 0 42.5px;
+	color: #000;
+	text-align: center;
+	font-size: 13px;
+}
+.acrBottom{
+	width: 258px;
+	height: 20px;
+	top: 388px;
+	left: 0px;
+	padding: 14px 0px;
+	margin: 0 55px;
+	color: #fff;
+	background: #000;
+	text-align: center;
+	font-size: 15px;
+}
